@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aditya ",
+    "email": "adi@gmail.com",
+    "password": "$2a$10$hrp7RX3L8ePHKmshh4lLr.AWzA.H7IFLYQ323P1oE/ALVlgq6LmHq"
+  },
+  {
+    "name": "John Doe",
+    "email": "john@gmail.com",
+    "password": "$2a$10$8i6QQpSkvFLhqeUXeYPtc.0Oiotu24iNSg7CaxjZn6KsHVXFW4zqO"
+  },
+  {
+    "name": "Arun",
+    "email": "Arun@gmail.com",
+    "password": "$2a$10$Y73LB8bF0KUjfn9g5BGZY.rpdYvZPZgpPzxvOErVPplvuKfPlhbaS"
+  },
+  {
+    "name": "Abner",
+    "email": "Abner@gmail.com",
+    "password": "$2a$10$gFe64t87vhRJhS.X44hgNe2o76ed6QYLtlyllPDugADzwI11f48c."
+  },
+  {
+    "name": "Test User",
+    "email": "testuser@example.com",
+    "password": "$2a$10$VRqKAxFNrGcEkP/ZCBHnNetBaa7hmNMUru08mO1L/XZr6D4awlIzG"
+  },
+  {
+    "name": "Aditya",
+    "email": "Aditya@gmail.com",
+    "password": "$2a$10$9hsqMg.Z3GmD2yoybU6/2uvIorG4n4atC6i.LB02ZSdu/XkbVWIwC"
+  },
+  {
+    "name": "john cena",
+    "email": "john@gmal.com",
+    "password": "$2a$10$r2lfrxUBVF5I4ShASXM.TuyZoPW7KZEinTkHE1qUrtX4HNWinLaiy"
+  },
+  {
+    "name": "undertaker",
+    "email": "undertaker@gmail.com",
+    "password": "$2a$10$D/s2S5jXh9sbv/jolgrVx.58X6JDel/p44xX2fgxHPWUABUkoX2ca"
+  }
+]
