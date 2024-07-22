@@ -1,0 +1,173 @@
+[
+  {
+    "sender": "Abner",
+    "receiver": "John Doe",
+    "message": "hi",
+    "timestamp": "2024-06-27T09:53:15.416Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "John Doe",
+    "message": "hello",
+    "timestamp": "2024-06-27T09:53:33.019Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Test User",
+    "message": "hii",
+    "timestamp": "2024-06-27T09:53:41.552Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Arun",
+    "message": "heyy",
+    "timestamp": "2024-06-27T09:53:48.585Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Arun",
+    "message": "hi",
+    "timestamp": "2024-06-27T10:54:58.162Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "dhh'",
+    "timestamp": "2024-06-27T10:55:37.616Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "jhjfcf",
+    "timestamp": "2024-06-27T10:55:40.134Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "dffdvfd",
+    "timestamp": "2024-06-27T10:55:42.301Z"
+  },
+  {
+    "sender": "Arun",
+    "receiver": "Abner",
+    "message": "gii",
+    "timestamp": "2024-06-27T10:57:22.629Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hii",
+    "timestamp": "2024-06-27T11:09:32.916Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hii",
+    "timestamp": "2024-06-27T11:09:36.342Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hiii",
+    "timestamp": "2024-06-27T11:29:42.094Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Arun",
+    "message": "jii",
+    "timestamp": "2024-06-27T11:30:41.659Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Arun",
+    "message": "\\\\\\\\\\\\\\;ol.t-",
+    "timestamp": "2024-06-27T11:37:14.972Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Arun",
+    "message": "7666i=-------------------------------------------aGfggggggg===4IOCUDYU===================================================================.gNM,.55A78 WQA  /* Chat.module.css */ .chatContainer {   display: flex;   flex-direction: column;   padding: 10px;   overflow-y: auto;   height: 100%; }",
+    "timestamp": "2024-06-27T12:32:18.371Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "John Doe",
+    "message": "hii",
+    "timestamp": "2024-06-27T12:33:09.589Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hii",
+    "timestamp": "2024-06-27T12:34:56.283Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hii bro",
+    "timestamp": "2024-06-27T12:44:23.868Z"
+  },
+  {
+    "sender": "Aditya",
+    "receiver": "Abner ",
+    "message": "hii",
+    "timestamp": "2024-06-27T12:44:23.868Z"
+  },
+  {
+    "sender": "Aditya",
+    "receiver": "Abner",
+    "message": "Hello Abner, this is Aditya.",
+    "timestamp": "2024-06-27T12:54:25.468Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hii",
+    "timestamp": "2024-06-27T12:56:47.112Z"
+  },
+  {
+    "sender": "Abner",
+    "receiver": "Aditya ",
+    "message": "hello",
+    "timestamp": "2024-06-28T09:17:28.934Z"
+  },
+  {
+    "sender": "undertaker",
+    "receiver": "john cena",
+    "message": "hii",
+    "timestamp": "2024-07-15T10:45:32.822Z"
+  },
+  {
+    "sender": "undertaker",
+    "receiver": "Abner",
+    "message": "hello",
+    "timestamp": "2024-07-15T10:45:47.041Z"
+  },
+  {
+    "sender": "undertaker",
+    "receiver": "Abner",
+    "message": "hihh",
+    "timestamp": "2024-07-15T10:58:16.603Z"
+  },
+  {
+    "id": 1721121350915,
+    "sender": "undertaker",
+    "receiver": "john cena",
+    "message": "hh",
+    "timestamp": "2024-07-16T09:15:50.915Z"
+  },
+  {
+    "id": 1721121352293,
+    "sender": "undertaker",
+    "receiver": "john cena",
+    "message": "hh",
+    "timestamp": "2024-07-16T09:15:52.293Z"
+  },
+  {
+    "id": 1721471174563,
+    "sender": "Abner",
+    "receiver": "undertaker",
+    "message": "h",
+    "timestamp": "2024-07-20T10:26:14.563Z"
+  }
+]
