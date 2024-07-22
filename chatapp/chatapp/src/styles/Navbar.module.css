@@ -1,0 +1,60 @@
+/* Importing global variables */
+@import "../../src/vars.css";
+
+.navbar {
+  padding: 20px; /* Adjusted padding for better spacing */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #333;
+}
+
+.container {
+  padding: 20px; /* Unified padding for consistency */
+  background-color: #05445E;
+}
+
+.logo {
+  height: 60px; /* Adjusted height for better scaling */
+  margin-right: 15px;
+}
+
+.username {
+  font-size: 18px; /* Adjusted font size for better readability */
+  color: aliceblue;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .navbar {
+    padding: 15px;
+  }
+
+  .logo {
+    height: 50px;
+  }
+
+  .username {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  .navbar {
+    flex-direction: column; /* Stack items vertically */
+    align-items: flex-start;
+  }
+
+  .logo {
+    height: 40px;
+    margin-bottom: 10px;
+  }
+
+  .username {
+    font-size: 14px;
+  }
+
+  .container {
+    padding: 15px;
+  }
+}

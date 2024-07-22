@@ -1,0 +1,127 @@
+/* Importing global variables */
+@import "../../src/vars.css";
+
+.parentContainer {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.backgroundVideo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 550px;
+  max-width: 90%;
+  height: 650px;
+  max-height: 90%;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgb(184, 184, 127);
+  padding: 20px; 
+  border-radius: 7px;
+  z-index: 1;
+}
+
+h1 {
+  font-size: 36px;
+  text-align: center;
+}
+
+.applogo {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  gap: 16px;
+}
+
+form input {
+  height: 50px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 10px;
+  width: 80%;
+  box-sizing: border-box; /* Ensures padding is included in width */
+}
+
+form button {
+  height: 50px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  width: 80%;
+  background-color: #333;
+  color: white;
+  border: none;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .container {
+    width: 80%;
+    height: auto;
+    padding: 15px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  .applogo {
+    width: 80px;
+    height: 80px;
+  }
+
+  form input,
+  form button {
+    height: 45px;
+    font-size: 14px;
+    width: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    width: 90%;
+    height: auto;
+    padding: 10px;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .applogo {
+    width: 60px;
+    height: 60px;
+  }
+
+  form input,
+  form button {
+    height: 40px;
+    font-size: 12px;
+    width: 95%;
+  }
+}

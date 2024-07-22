@@ -1,0 +1,17 @@
+.Sidebar {
+  background-color: #f0f0f0;
+  padding: 15px;
+  height: 100%;
+  width: 420px;
+  background-color: #189ab4;
+}
+
+.userItem {
+  cursor: pointer;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.userItem:hover {
+  background-color: #f0f0f0;
+}

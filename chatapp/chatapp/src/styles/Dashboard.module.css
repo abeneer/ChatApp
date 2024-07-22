@@ -1,0 +1,84 @@
+/* Dashboard.module.css */
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.container {
+  display: flex;
+  flex: 1;
+}
+
+.sidebar {
+  width: 250px;
+  background-color: #f0f0f0;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.chats {
+  flex: 1;
+  background-color: #e0e0e0;
+  padding: 20px;
+}
+
+.chat {
+  flex: 3;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.input {
+  padding: 10px;
+  background-color: #ddd;
+}
+
+/* Media queries for responsive design */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    width: 100%;
+    height: 100px;
+    order: 1;
+  }
+
+  .main {
+    order: 2;
+  }
+
+  .chats {
+    order: 3;
+    padding: 10px;
+  }
+
+  .chat {
+    order: 4;
+    padding: 10px;
+  }
+
+  .input {
+    order: 5;
+  }
+}
+
+@media (max-width: 480px) {
+  .sidebar {
+    height: auto;
+  }
+
+  .chats, .chat, .input {
+    padding: 5px;
+  }
+
+  .input {
+    padding: 8px;
+  }
+}
